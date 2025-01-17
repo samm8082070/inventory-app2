@@ -17,7 +17,7 @@
 plugins {
     id("com.android.application")
     id("org.jetbrains.kotlin.android")
-    id("com.google.devtools.ksp") version "1.9.20-1.0.14"
+    id("com.google.devtools.ksp") version "1.9.25-1.0.20"
 }
 
 android {
